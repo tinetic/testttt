@@ -1,1 +1,3 @@
-﻿print("hello pops")
+return function()
+    print("hello pops")
+end
